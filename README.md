@@ -1,5 +1,4 @@
-# object-oriented-programming-lab
+# Object Oriented Programming Lab
 
-Project - 1: 
 
 OOP_046_V.0.1: Calculator

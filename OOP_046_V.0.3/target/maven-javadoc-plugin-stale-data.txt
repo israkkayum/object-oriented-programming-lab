@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'converter 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'converter 1.0-SNAPSHOT API'
+com.mycompany.converter
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/src/main/java = 1659010964000
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/tag-search-index.js = 1659012525776
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/overview-tree.html = 1659012525770
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/module-search-index.js = 1659012525775
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/index.html = 1659012525779
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/package-search-index.js = 1659012525775
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/jquery-ui.overrides.css = 1659012525785
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/serialized-form.html = 1659012525764
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/index-all.html = 1659012525778
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/allpackages-index.html = 1659012525775
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/member-search-index.js = 1659012525776
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/copy.svg = 1659012525781
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/script.js = 1659012525781
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/stylesheet.css = 1659012525781
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/help-doc.html = 1659012525780
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/element-list = 1659012525725
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/allclasses-index.html = 1659012525774
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/type-search-index.js = 1659012525775
+/Users/israkkayum/Documents/CSE/2Y1S/CSE21P8/converter/target/apidocs/search.js = 1659012525782
